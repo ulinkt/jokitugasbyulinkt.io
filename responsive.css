@@ -1,0 +1,166 @@
+@media only screen and (max-width: 600px) {
+
+    #home {
+        flex-direction: column;
+        border-radius: 0;
+    }
+
+    .container {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+body{
+    background-color: #437fc7;
+}
+.text p {
+    text-align: center;
+}
+
+.judul {
+    line-height: 32px;
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.subjudul {
+    font-size: 26px;
+}
+
+.apa {
+    margin: 5px 0;
+}
+
+.download-button {
+    font-size: 12px;
+}
+
+.jj {
+    justify-content: center;
+}
+
+.gambar {
+    max-width: 100%;
+   
+   
+}
+
+.gambar img {
+   width: 220px;
+   height: 220px;
+}
+
+.halaman2 {
+    background-color: #f7f7f7;
+}
+
+.section__title {
+    font-size: 90%;
+}
+
+.gradasi-teks {
+    color: #437fc7;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+#about p , #order p ,#unggulan p{
+    text-align: center;
+}
+
+.isi {
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+#about {
+    height: auto;
+}
+
+.box {
+    height: auto;
+    background-color: #f7f7f7;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    color: black;
+}
+
+.box .icon {
+    background: #f7f7f7;
+    color: #ff9900;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.box p {
+    text-align: left;
+    align-items: start;
+}
+
+.cara {
+    margin-top: 24px;
+}
+
+#unggulan {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.isi .box {
+    height: auto;
+}
+
+
+.heade {
+    max-width: 900px;
+    background-color: #f7f7f7;
+}
+.heade img {
+    max-width: 200px;
+}
+
+
+#contactForm {
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+ 
+    width: 300px;
+}
+
+.contai {
+    
+}
+
+#contact {
+    height: auto;
+    padding-bottom: 50px;
+}
+
+
+.footer {
+    background-color: #f7f7f7;
+    color: #437fc7;
+}
+
+
+.footer-col h4 {
+    color: #437fc7;
+}
+.footer-col ul {
+    color: darkblue;
+}
+
+.footer-col .social-links a {
+    color: #437fc7;
+    transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover {
+    background-color: #437fc7;
+    color: #f7f7f7;
+}
+  }
